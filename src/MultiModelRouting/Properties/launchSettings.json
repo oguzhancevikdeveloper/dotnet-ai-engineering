@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiModelRouting": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
