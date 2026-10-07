@@ -2,4 +2,9 @@
   <Folder Name="/src/">
     <Project Path="src/MultiModelRouting/MultiModelRouting.csproj" Id="4335e34c-fc74-4960-85c9-bd86ae2bd746" />
   </Folder>
+  <Folder Name="/src/PgVectorVectorSearch/">
+    <Project Path="src/PgVectorVectorSearch/PgVectorVectorSearch.API/PgVectorVectorSearch.API.csproj" />
+    <Project Path="src/PgVectorVectorSearch/PgVectorVectorSearch.AppHost/PgVectorVectorSearch.AppHost.csproj" Id="da4fd860-a0bc-46f2-9365-75ec7870ca2a" />
+    <Project Path="src/PgVectorVectorSearch/PgVectorVectorSearch.ServiceDefaults/PgVectorVectorSearch.ServiceDefaults.csproj" Id="81d0341b-6300-40a9-80e4-5a2d6330f57f" />
+  </Folder>
 </Solution>

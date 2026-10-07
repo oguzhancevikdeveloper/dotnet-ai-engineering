@@ -1,0 +1,6 @@
+@PgVectorVectorSearch.API_HostAddress = http://localhost:5018
+
+GET {{PgVectorVectorSearch.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
