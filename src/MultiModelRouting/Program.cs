@@ -1,6 +1,11 @@
-﻿var configuration = (
-    ApiKey: "ollama",
-    Endpoint: "http://localhost:11434/v1"
-    );
+﻿
+using System.Diagnostics;
 
-const string textAgentName = "textAgentName", speechAgentName = "speechAgentName", embeddingAgentName = "embeddingAgentName";
+List<string> items = new List<string>();
+Stopwatch stopwatch = new Stopwatch();
+
+stopwatch.Start();
+for (int i = 0; i < items.Count; i++)
+{
+
+}
